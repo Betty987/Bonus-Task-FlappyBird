@@ -1,4 +1,4 @@
-# 🐦 Flappy-ML agents in Unity
+# 🐤 Flappy-ML agents in Unity
 ![Flappy](flappy.gif)
 ## Overview
 
